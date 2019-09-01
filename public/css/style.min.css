@@ -1,0 +1,55 @@
+body{margin:0px auto;padding:0px;background-color:#f5f5f5;}
+
+.logo{font-family:'Pacifico', Helvetica, sans-serif;}
+
+
+/* ---------------------------------------------------------------------------------------------
+--------------------------THE BLOG ----------------------------------------------------------
+--------------------------------------------------------------------------------------------- */
+
+/* Home Page */
+.main{margin-top:20px;}
+.daily{background-color:#fff;box-shadow:0px 0px 10px #b5b5b5;font-size:1em;}
+.doc_links{padding:20px;font-size:0.9em;}
+.projects{}
+.pro{background-color:#fff;box-shadow:0px 0px 15px #b5b5b5;padding:10px;}
+.blog{background-color:#fff;box-shadow:0px 0px 15px #b5b5b5; overflow: hidden;}
+.cont{padding:20px;}
+.smallboi {font-size:0.8em;color:grey;}
+.post{height:90px;}
+.subscribe{background-color:#2d3436;color:#fff;padding:40px;}
+
+.boxee{width:70%;height:35px;border:none;padding:5px;border-radius:5px;box-shadow:0px 0px 5px #fff;}
+.boxee:hover{width:90%;box-shadow:0px 0px 10px #fff;transition:0.5s;}
+
+/* Meet the Team */
+.team{background-color:#000;color:#fff;padding:40px;}
+.profile{width:50%;border-radius:100px;}
+.boi{margin-top:20px;}
+.social{margin-left:20px;margin-right:20px;}
+
+/* Downloads Page */
+.downloads{background-color:#fff;padding:40px;box-shadow:0px 0px 15px #b5b5b5;margin-top:40px;}
+.download_list{margin-left:40px;margin-top:40px;}
+.outline{padding:30px;border:1px solid #b5b5b5;}
+
+/* Projects Page */
+.project{background-color:#fff;padding:40px;box-shadow:0px 0px 5px #b5b5b5;}
+.boxee{width:250px;}
+
+
+
+/* -------------------------------------------------------------------------------
+-------------------------------ADMIN PANEL ------------------------------------
+------------------------------------------------------------------------------- */
+
+/* Input Box */
+.boxe{border-radius:0px;}
+
+/* The Buttons */
+.greenboi{background-color:#2ecc71;border:none;border-radius:0px;}
+.greenboi:hover{background-color:#27ae60;box-shadow:0px 0px 5px #b5b5b5;}
+.redboi{background-color:#e74c3c;border:none;border-radius:0px;}
+.redboi:hover{background-color:#c0392b;box-shadow:0px 0px 5px #b5b5b5;}
+.blueboi{background-color:#3498db;border:none;border-radius:0px;}
+.blueboi:hover{background-color:#2980b9;box-shadow:0px 0px 5px #b5b5b5;}
